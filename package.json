@@ -1,7 +1,7 @@
 {
-  "name": "@jetbrains/toolbox-browser-extension",
-  "version": "1.0.0",
-  "description": "Browser extension for JetBrains Toolbox",
+  "name": "@bryce-carson/magit-browser-extension",
+  "version": "0.1.0",
+  "description": "Browser extension for Magit",
   "license": "Apache-2.0",
   "scripts": {
     "prebuild": "eslint .",
@@ -13,7 +13,6 @@
     "postinstall": "node .scripts/ensure-core.js"
   },
   "dependencies": {
-    "@jetbrains/logos": "^2.2.16",
     "bitbucket-url-to-object": "^0.3.0",
     "content-scripts-register-polyfill": "^4.0.2",
     "github-url-to-object": "^4.0.4",
