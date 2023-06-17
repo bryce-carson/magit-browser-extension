@@ -1,4 +1,4 @@
-import magitIcon from '@magit/magit-logo/blob/master/images/icon/80x80/magit-icon-80x80px.svg';
+export const magitIcon = 'magit-icon-80x80px.svg';
 
 export const DEFAULT_LANGUAGE = 'emacs-lisp';
 
