@@ -1,5 +1,3 @@
-# JetBrains Toolbox App browser extension
-
-[![official project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-
-Browser extension for Chrome and Firefox to check out GitHub, GitLab, and Bitbucket projects, and open them in JetBrains' IDEs in one click.
+# In-development
+>  Such an interface name could be ‘org.gnu.Emacs.TextEditor’ or ‘org.gnu.Emacs.FileManager’.
+Necessary to investigate the best way to approach "org.gnu.Emacs.Magit", then.
